@@ -1,4 +1,4 @@
-# przykładowy plik: 
-Imię:  
-Ulubiony język:   
-Zainteresowania: 
+
+Imię:  Sofiia
+Ulubiony język:  Java 
+Zainteresowania: pływanie
