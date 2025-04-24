@@ -1,4 +1,4 @@
-
-Imię:  Sofiia
-Ulubiony język:  Java 
-Zainteresowania: pływanie
+#przykładowy opis
+Imię: 
+Ulubiony język: 
+Zainteresowania: 
